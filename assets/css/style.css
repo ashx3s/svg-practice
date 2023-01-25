@@ -8,11 +8,10 @@
   fill: green;
 }
 
-.svg-size {
+.img-sm {
   height: 200px;
-  width: 400px;
 }
 
-.img-size {
-  height: 500px;
+.img-md {
+  height: 800px;
 }
