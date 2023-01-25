@@ -1,0 +1,18 @@
+.red-fill {
+  fill: red;
+}
+.blue-fill {
+  fill: blue;
+}
+.green-fill {
+  fill: green;
+}
+
+.svg-size {
+  height: 200px;
+  width: 400px;
+}
+
+.img-size {
+  height: 500px;
+}
