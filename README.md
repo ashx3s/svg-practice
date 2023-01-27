@@ -1,4 +1,4 @@
-# SVG Practice -practicing github marging
+# SVG Practice -practicing github merging
 
 This is a repo for practicing editing svgs
 
@@ -7,3 +7,4 @@ This is a repo for practicing editing svgs
 - [Ashlyn Knox]()
 - [Sidney Lemon]()
 - [rashid hayato]()
+- [cam mitchell]()
